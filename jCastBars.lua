@@ -1,5 +1,6 @@
 -- locals and speed
 local AddonName, Addon = ...;
+
 local pairs = pairs;
 local max = math.max;
 
