@@ -4,7 +4,7 @@ local AddonName, Addon = ...;
 local pairs = pairs;
 local max = math.max;
 
-local UPDATE_DELAY = 0.2;
+local UPDATE_DELAY = .2;
 
 -- main
 function Addon:Load()
