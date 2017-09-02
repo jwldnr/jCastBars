@@ -1,7 +1,7 @@
-## Interface: 70200
+## Interface: 70300
 ## Title: jCastBars
 ## Notes: Add cast time text to cast bars (player/target)
-## Version: 1.0
+## Version: 1.1
 ## Author: jwldnr
 
 jCastBars.lua
